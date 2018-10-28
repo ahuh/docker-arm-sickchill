@@ -1,6 +1,6 @@
 #! /bin/bash
 
-. /etc/sickchill/updateSickchill.sh
+. /etc/sickchill/updateSickChill.sh
 
 . /etc/sickchill/userSetup.sh
 
